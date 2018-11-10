@@ -1,4 +1,4 @@
-#!/Users/Cesare-Leemann/dev/environments/django_env/bin/python
+#!/dev_env/django_starter/django-blog/bin/python
 
 import sys
 import getopt
