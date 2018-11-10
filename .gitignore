@@ -11,7 +11,7 @@ logs/
 
 # Specific files #
 ##################
-projectname/settings.py
+django_blog/django_blog/settings.py
 
 # OS generated files #
 ######################
