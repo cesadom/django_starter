@@ -1,0 +1,4 @@
+##python project cheat sheet ##
+
+#Start virtualenv
+source bin/activate
