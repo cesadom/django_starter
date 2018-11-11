@@ -1,0 +1,21 @@
+# File types #
+##############
+*.pyc
+*.swo
+*.swp
+*.swn
+
+# Directories #
+###############
+logs/
+
+# Specific files #
+##################
+django_blog/django_blog/settings.py
+
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Thumbs.db
+*~
